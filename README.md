@@ -2,6 +2,7 @@
 
 Welcome to my Python programs repository! This repository contains a collection of Python programs, including API calling scripts, dynamic programming questions, and a mini-project showcasing a Royal Enfield bike showroom.
 
+
 ## Contents
 
 1. [API Calling Programs](#api-calling-programs)
@@ -28,10 +29,7 @@ Unzip the File:
 
 Once downloaded, locate the ZIP file in your downloads folder or the specified download location.
 Extract the ZIP file to a convenient location on your computer.
-Opening in Visual Studio Code
-Open Visual Studio Code:
-
-
+Open in Visual Studio Code
 
 
 Go to File > Open... or use the keyboard shortcut Ctrl+O.
@@ -47,3 +45,5 @@ Running Python Programs
 Running Python Programs:
 To run Python programs, open the file you want to execute.
 Right-click on the editor and select Run Python File in Terminal, or use the command python filename.py in the terminal.</h4>
+
+# If you are completely doing this repo it's my guarantee you will become a pro in python
