@@ -47,3 +47,14 @@ To run Python programs, open the file you want to execute.
 Right-click on the editor and select Run Python File in Terminal, or use the command python filename.py in the terminal.</h4>
 
 # If you are completely doing this repo it's my guarantee you will become a pro in python
+
+## Contact
+
+If you have any questions, suggestions, or just want to connect, feel free to reach out:
+
+- **GitHub**: [husainhakim](https://github.com/husainhakim)
+- **Email**: 2023.husainh@isu.ac.in
+
+---
+
+Thank you for visiting my LeetCode Sync repository. Happy coding!
