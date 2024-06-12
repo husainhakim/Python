@@ -1,0 +1,15 @@
+x=[1,2,3]
+print(x)
+y=x
+z=x.append(12)
+x[1]=15
+print(x)
+x.append(12)
+print(y)
+x.append(853)
+print(y)
+print(x)
+x=x+['chikne'+'bhai']
+print(x)
+print(y)
+print(z)
